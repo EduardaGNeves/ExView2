@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Views</string>
+    <string name="nome">Nome:</string>
+    <string name="email">E-mail:</string>
+    <string name="telefone">Telefone:</string>
+    <string name="off">Não</string>
+    <string name="on">Sim</string>
+    <string name="preferencias">Preferências</string>
+    <string name="limpar">Limpar</string>
+    <string name="exibir">Exibir</string>
+    <string name="sexo">Sexo:</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="chkMusica">Musica</string>
+    <string name="chkCinema">Cinema</string>
+    <string name="chkEsporte">Esporte</string>
+    <string name="chkGastronomia">Gastronomia</string>
+    <string name="notificacao">Ativar Notificações</string>
+
+</resources>
